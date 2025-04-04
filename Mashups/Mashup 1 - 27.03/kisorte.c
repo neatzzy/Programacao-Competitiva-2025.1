@@ -1,3 +1,10 @@
+/*
+ * Problem: Ki-Sorte!
+ * Description: Find the lottery ticket number (1-99) that minimizes the sum S(x) = |x-A| + (x-B)^2 + |x-C|^3, given A, B, C.
+ * Input: Three integers A, B, C (1 ≤ A, B, C ≤ 99).
+ * Output: The ticket number x with the smallest S(x). If tied, any valid x is accepted.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

@@ -34,15 +34,15 @@ The repository is organized as follows:
 │      ├── Contest2/
 │      └── ...
 ├── 📁 Classroom/
-│   ├── Topic.md
-│   ├── Exercise
+│   ├── Exercise1
+│   ├── Exercise2
 │   └── ...
 └── README.md
 ```
 
 - **`Mashups/`**: Contains problem sets from mashup sessions, organized by date and session number.
 - **`Contests/`**: Includes problems and solutions from various competitive programming contests, categorized by organizing platform.
-- **`Classroom/`**: Features exercises and notes from classroom activities or specific topics covered during learning sessions.
+- **`Classroom/`**: Features exercises from classroom activities or specific topics covered during learning sessions.
 
 ---
 
