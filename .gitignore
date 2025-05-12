@@ -1,4 +1,9 @@
 **/tempCodeRunnerFile.cpp
 */.vscode
+**/.vscode
+***/.vscode
+****/.vscode
 **.DS_Store
 .gitignore
+vscode/
+!*.*/
