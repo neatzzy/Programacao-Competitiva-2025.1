@@ -7,8 +7,6 @@ myset = set()
 arr = map(int, input().split())
 
 for i in arr:
-    if i == 0:
-        zeros = True
     myset.add(i)
 
-print(len(myset) - 1) if zeros else print(len(myset))
+print(len(myset) - 1) if 0 in myset else print(len(myset))
